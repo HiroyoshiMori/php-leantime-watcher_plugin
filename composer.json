@@ -1,0 +1,22 @@
+{
+    "name": "ScriptLaboratory/Watchers",
+    "description": "Project/Ticket watcher plugin who wants to receive notifications via email.",
+    "version": "0.1",
+    "screenshot": "/images/screenshot.png",
+    "authors": [
+        {
+            "name": "Hiroyoshi Mori",
+            "email": "mori@scriptlab.tokyo"
+        }
+    ],
+    "homepage": "https://scriptlab.tokyo",
+    "type": "plugin",
+    "keywords": [
+        "Notification",
+        "Watchers"
+    ],
+    "license": "Apache-2.0",
+    "require": {
+        "leantime/leantime": "3.0"
+    }
+}
